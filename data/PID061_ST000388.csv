@@ -1,0 +1,9 @@
+,Cancer_Emphysema/COPD No_Current_Female vs Benign_Emphysema/COPD No_Current_Female,Cancer_Emphysema/COPD Yes_Current_Female vs Benign_Emphysema/COPD Yes_Current_Female,Cancer_Emphysema/COPD No_Former_Female vs Benign_Emphysema/COPD No_Former_Female,Cancer_Emphysema/COPD Yes_Former_Female vs Benign_Emphysema/COPD Yes_Former_Female,Cancer_Emphysema/COPD No_Current_Male vs Benign_Emphysema/COPD No_Current_Male,Cancer_Emphysema/COPD Yes_Current_Male vs Benign_Emphysema/COPD Yes_Current_Male,Cancer_Emphysema/COPD No_Former_Male vs Benign_Emphysema/COPD No_Former_Male,Benign_Emphysema/COPD Yes_Former_Male vs Cancer_Emphysema/COPD Yes_Former_Male
+refmet_name,ratio,ratio,ratio,ratio,ratio,ratio,ratio,ratio
+Glutamine,0.909234501,0.73043827,1.733287382,1.396674989,1.171860522,0.666501987,3.080634819,0.763195251
+Methionine,0.86028751,0.646447594,1.455530209,1.116891243,1.76833974,0.691080257,2.84765241,0.74333759
+PC 38:7,1.185870273,1.008959261,0.918563022,0.98130566,0.92467815,1.171278526,0.970284306,1.035568319
+PE 38:4,1.632993644,1.040600719,0.691684605,1.14419141,1.306799287,1.011653937,0.514960587,1.246735418
+Phenylalanine,0.85640467,0.677874645,1.861269055,1.053323762,1.281643455,0.737550252,1.463441481,0.681937929
+Pyroglutamic acid,0.840083369,0.745010947,1.797157945,1.348128804,1.237900168,0.680179916,3.423177489,0.733327505
+Tryptophan,1.038820613,0.700485262,1.183682427,0.729179973,2.083656527,1.025466513,1.771940389,0.564840217

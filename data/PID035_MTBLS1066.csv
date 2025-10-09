@@ -1,0 +1,33 @@
+,BC_ MCT vs BC_C,BC_C vs H_C,BC_MCT vs C,H_MCT vs H_C
+metabolite_identification,ratio,ratio,ratio,ratio
+Acetyltaurine,2.395,NA,NA,NA
+Adipic acid ,6,NA,NA,6.02
+Citrulline,2.25,NA,NA,1.88
+Dimethylglycine,2.34,NA,NA,NA
+Glutamine,1.52,NA,NA,1.77
+N5-Acetylornithine,4.56,0.34,NA,NA
+N-Acetylglutamine,3.13,NA,NA,4.156666667
+Pantothenic acid,1.85,NA,NA,NA
+p-Hydroxyphenyllactate,2.85,NA,NA,NA
+Proline,1.82,NA,NA,2.345
+Serine,1.453333333,NA,NA,NA
+Stearoylcarnitine,4.86,NA,NA,2.615
+Suberic acid,7.17,NA,NA,10.43
+Uric acid,1.83,NA,NA,NA
+Maleic acid,NA,0.82,NA,2.86
+2-Methylbutyrylcarnitine,NA,0.36,NA,NA
+Tetradecanoylcarnitine,NA,0.4,NA,NA
+Dihydrouridine,NA,0.63,NA,0.63
+2-Aminoadipic acid,NA,NA,0.625,NA
+"1,4-Cyclohexanedicarboxylic acid",NA,NA,NA,4.41
+3-Furoic acid,NA,NA,NA,2.35
+Acetoacetic acid,NA,NA,NA,2.22
+Acetylhistidine,NA,NA,NA,2.66
+Alanine,NA,NA,NA,2.44
+Asparagine,NA,NA,NA,1.96
+N-Acetylglutamic acid,NA,NA,NA,2.13
+O-adipoylcarnitine,NA,NA,NA,7.5
+Quinolinic acid,NA,NA,NA,7.57
+Threonine,NA,NA,NA,1.74
+Methionine,NA,NA,NA,2.043333333
+Tyrosine,NA,NA,NA,2.3

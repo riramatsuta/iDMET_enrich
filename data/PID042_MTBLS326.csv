@@ -1,0 +1,10 @@
+,breast cancer_low vs control,breast cancer_high vs control,breast cancer_low vs breast cancer_high
+metabolite_identification,ratio,ratio,ratio
+alanine,1.127852502,1.163719338,0.969179135
+glucose,0.786244,0.823660282,0.954573162
+lysine,1.14657959,1.612018487,0.711269505
+lactate,2.158398319,2.049148277,1.053314854
+pyruvate,1.280006899,0.546784107,2.340973123
+glutamate,7.802207428,1.423922565,5.479376211
+lipids,1.187017241,1.33648132,0.88816598
+N-acetyl glycoprotein,0.680320205,0.57793481,1.177157343

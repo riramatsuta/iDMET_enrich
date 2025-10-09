@@ -1,0 +1,36 @@
+,IDH1 Knockdown:yes vs IDH1 Knockdown:No
+refmet_name,ratio
+3-Phosphoglyceric acid,1.041293731
+6-Phosphogluconic acid,1.119221781
+Acetyl-CoA,0.999524667
+ADP,1.295104656
+Alanine,0.956630911
+Oxoglutaric acid,0.981824621
+AMP,0.934472214
+Aspartic acid,1.733781512
+ATP,1.618210979
+Citric acid/Isocitric acid,0.691251498
+Erythrose,0.268797043
+Erythrose 4-phosphate,1.13807621
+FAD,1.07693783
+"Fructose 1,6-bisphosphate",0.94162876
+Fumaric acid,0.863385582
+Glucose 6-phosphate,1.162662497
+Glutamic acid,1.406651197
+Glutamine,0.714834894
+GDP,1.541704727
+GMP,1.045870489
+GTP,1.439759194
+Lactic acid,0.603364109
+Malic acid,0.969392729
+NAD+,1.346502228
+NADP+,1.183410917
+NADP+,1.040235774
+NADH,0.965418176
+Oxaloacetic acid,NA
+Phosphoenolpyruvic acid,0.965446214
+Pyruvic acid,0.668748533
+Ribose 5-phosphate,1.132795687
+Glucoheptulose,0.889005008
+Sedoheptulose 7-phosphate,1.210794313
+Sucrose,1.115587077
