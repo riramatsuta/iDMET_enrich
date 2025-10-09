@@ -1,4 +1,4 @@
-# Project Overview
+# Overview
 
 The iDMET project provides a framework for interpreting metabolomic data using differential metabolite profiles. This repository extends iDMET to perform enrichment analysis on metabolite sets.
 
