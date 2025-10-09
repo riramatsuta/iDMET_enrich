@@ -1,15 +1,14 @@
-#   MSEA Source Code
+#  MSEA Source Code
 
 # rm(list = ls(all = TRUE))
-# ----------------------
+#----------------------
 # Load input data 
-# ----------------------
+#----------------------
 INDATA <- read.csv(data, fileEncoding = "CP932", na.strings = c("", "N.A.", "N.D."))  
-HMT_list <- read.csv(file = "./data/conpound_list.csv", fileEncoding = "CP932")
 
-# ----------------------
+#----------------------
 # Select metabolites
-# ----------------------
+#----------------------
 INDATA2 <- INDATA %>% filter(p.value < 0.05) # threshold
 
 SIG <- as.character(INDATA2[,1])  # Significant metabolites
@@ -24,10 +23,9 @@ Pathway_HMT <- as.character(Pathway_list[,4])
 Pathway_class <- as.character(Pathway_list[,3])   
 Uni_pathway <- unique(Pathway_class)
 
-
-# ----------
+#----------
 # MSEA 
-# ----------
+#----------
 NumM <- NaN; NumAll <- NaN; P_chi <- NaN; P_fish <- NaN; N <- NaN; N_all <- NaN; Nset <- NaN; W <- NaN; N_ori <- NaN
 R <- NaN; M_metabolite <- NaN  
 
@@ -69,9 +67,9 @@ for (i in 1:length(Uni_pathway)){
 Q <- p.adjust(P_fish, method = "BH")
 
 
-# ----------------------
+#----------------------
 #   Output results
-# ----------------------
+#----------------------
 P <- cbind(Uni_pathway, N_ori, NumAll, NumM, P_fish, Q, M_metabolite)
 P <- data.frame(P)
 colnames(P) <- c("Metabolic_Pathway", "Total_Metabolites", "Detected_Metabolites", "Selected_Metabolites", 
@@ -79,3 +77,4 @@ colnames(P) <- c("Metabolic_Pathway", "Total_Metabolites", "Detected_Metabolites
 )
 
 write.csv(P, file = out_file, fileEncoding = "CP932", row.names = FALSE)
+
