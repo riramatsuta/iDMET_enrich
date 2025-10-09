@@ -1,8 +1,8 @@
 rm(list=ls(all=TRUE))
 
-# ----------------------
-#   Prepare input data for analysis
-# ----------------------
+#---------------------------------
+#  Prepare input data for analysis
+#---------------------------------
 
 # data files
 path <- "./data"
@@ -19,3 +19,4 @@ out_file_sub <- "./out put/MSEA result/unmatch_metabo.csv"
 
 # Load source file
 source(file = "./script/iDMET_msea_source.R")
+
