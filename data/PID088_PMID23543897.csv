@@ -1,0 +1,160 @@
+,Tumor (lung) vs Normal (lung ),Tumor (Prostate) vs Normal (Prostate)
+Metabolite,Ratio,Ratio
+"1,4-Butanediamine",NA,NA
+1-Methyl-2-pyrrolidone,NA,1.002135839
+1-Methyladenosine,1.808027523,NA
+1-Methylnicotinamide,2.459534884,1.248390122
+1-Metylhistamine,NA,1.5156203
+2-Aminobutyrate,1.47440273,1.128733265
+2-Hydroxybutyrate,1.310760668,1.205228982
+2-Hydroxypentanoate,NA,NA
+2-Hydroxypentanoate,NA,NA
+3-Hydroxybutyrate,1.120814061,0.812310184
+3-Methylhistidine,1.717686133,1.160671463
+3-Phosphoglycerate,0.511522566,NA
+3-Phenylpropionic acid,NA,1.004195804
+5-Methyltetrahydrofolate,NA,NA
+5-Methylthioadenosine,NA,NA
+5-Oxoproline,1.228407789,1.321289063
+"6,8-Thioctic acid",NA,NA
+alpha-Aminoadipate,2.510784065,0.988777555
+Adenine,NA,2.909639452
+Adenosine,1.630712267,12.07426304
+Adenylosuccinate,NA,NA
+ADP,2.386705965,0.76051667
+Ala,1.624159855,1.39337848
+Ala-Ala,6.324990618,NA
+AMP,7.89767487,1.612961952
+Anthranilate,0.71760132,NA
+Arg,1.209652076,1.251958225
+Argininosuccinate,2.166727538,2.001733102
+Ascorbic acid,NA,NA
+Asn,2.149015933,1.318467129
+Asp,1.06228793,0.872883498
+ATP,3.832804777,1.140577041
+Azelaic acid,NA,NA
+beta-Ala,2.225675894,0.75494926
+b-Ala-Lys,NA,NA
+Benzoic acid,NA,NA
+Betaine,0.847048337,1.993968545
+Betaine aldehyde,1.134330613,NA
+Carnitine,1.016781083,1.267857143
+CDP-choline,12.91183446,2.057104011
+Choline,1.317366533,1.529974614
+cis-Aconitate,#DIV/0!,1.669019054
+Citramalic acid,NA,NA
+Citrate,0.963945134,1.637216504
+Citrulline,1.284820684,NA
+CMP,NA,NA
+Creatine,4.997759104,0.938547486
+Creatinine,1.02039749,0.973066667
+Cystathionine,NA,NA
+Diethanolamine,0.918918919,1.282139547
+Dihydroxyacetone phosphate,0.552913049,NA
+Ethanolamine phosphate,2.413237565,0.785933735
+"Fructose 1,6-diphosphate",8.913692425,NA
+Fructose 6-phosphate,0.3125291,NA
+Fumarate,2.537296037,1.520423375
+GABA,2.44036444,2.851017747
+g-Butyrobetaine,1.065748988,1.388679542
+GDP,1.928428012,1.301278898
+Gln,1.879405722,1.138932608
+Glu,1.619435777,1.058823529
+Gluconate,3.731892569,NA
+Glucose and other monosaccharides,0.284753242,0.934998594
+Glucose 1-phosphate,2.758791802,NA
+Glucose 6-phosphate,0.446852524,1.001373941
+Glutathione(ox),NA,0.824963616
+Glu-Glu,2.187101035,NA
+Gly,1.451441318,1.131698774
+Glycerate,NA,NA
+Glycerophosphocholine,NA,3.056453588
+Glycerol 3-phosphate,NA,NA
+Gly-Gly,2.451926978,1.370426499
+Gly-Leu,NA,NA
+GMP,5.903896462,NA
+GTP,4.243657252,NA
+Guanidoacetate,3.180543121,0.807537976
+Guanosine,0.6296733,1.041120651
+Hexanoic acid,NA,NA
+His,1.753903346,1.441107403
+Histamine,0.592186674,0.877209477
+Hydroxyproline,NA,1.275817276
+Hypotaurine,3.089783593,1.091644205
+Hypoxanthine,1.210962396,1.405927835
+Ile,1.801890359,0.984717269
+Imidazole 4-acetate,0.417455447,NA
+IMP,NA,NA
+Inosine,0.921227587,1.016544118
+Isocitrate,0.76871837,1.250322497
+Isonicotinamide; Nicotinamide,1.908984558,NA
+Itaconic acid,NA,1.334874759
+Kynurenine,1.801340341,0.889202899
+Lactate,3.088104575,1.2566313
+Lauric acid,0.731712627,NA
+Leu,1.57473262,1.228552052
+Lys,1.067324527,1.447462473
+Malate,2.242350061,1.416957027
+Met,1.666706472,0.765072059
+Methionine sulfoxide,NA,1.290059434
+"N,N-Dimethylglycine",1.091549296,NA
+N5-Ethylglutamine,1.708173605,NA
+N6-Acetyllysine,1.318612774,NA
+N8-Acetylspermidine,5.487467499,NA
+N-Acetylaspartic acid,NA,NA
+N-Acetyl-beta-alanine,NA,NA
+N-Acetylglucosamine,NA,NA
+N-Acetylglutamic acid,NA,0.470457831
+N-Acetylmethionine,2.17447496,NA
+N-Acetylneuraminate,2.858348207,0.90291962
+N-Acetylornithine,2.430469927,NA
+N-Acetylputrescine,NA,1.923329477
+NAD+,2.100840336,NA
+NADH,1.038696377,NA
+NADP+,1.054811059,NA
+NADPH,2.870893405,NA
+Nicotinamide; Isonicotinamide,NA,2.055951302
+O-Acetylcarnitine,1.043706294,NA
+Octanoic acid,NA,NA
+Octylamine,NA,1.889190821
+Ophthalmate,1.089607504,NA
+Ornithine,0.775259679,2.142725173
+Pantothenate,NA,NA
+Pelargonic acid,1.066987741,NA
+Phe,1.497035573,1.271872146
+Phosphocreatine,1.722894099,NA
+Phosphoenolpyruvate,0.270084782,NA
+Phosphorylcholine,NA,0.71523398
+Pipecolate,2.098389982,NA
+Pro,2.022458629,1.463878327
+Propionic acid,1.971721782,NA
+Putrescine,9.619202115,1.823834574
+Pyridoxamine 5-phosphate,NA,NA
+Pyruvate,2.414369256,NA
+Ribose 5-phosphate,NA,NA
+Ribulose 5-phosphate,NA,0.963492063
+S-Adenosylhomocysteine,2.324554609,1.710181311
+S-Adenosylmethionine,12.98996416,NA
+Sarcosine,1.690011381,NA
+Sedoheptulose 7-phosphate,0.834031506,NA
+Ser,1.409806835,1.285165257
+Spermidine,0.94493781,2.095687351
+Spermine,0.663822295,2.122592033
+Succinate,1.819948187,1.574618571
+Taurine,1.720325203,0.857032258
+Thr,1.668480373,1.32961165
+Threonic acid,0.82349233,1.128286853
+Triethanolamine,0.863980464,1.539953271
+Trimethylamine N-oxide,1.325753158,1.269486496
+Trp,1.675022222,1.537027447
+Tyr,1.522393407,1.311672416
+UDP,8.093303389,NA
+UDP-glucose,4.721951844,NA
+UMP,9.59363269,NA
+Uracil,NA,NA
+Urate,1.008181818,NA
+Urea,1.033826279,1.039929825
+Uric acid,1.109543129,NA
+Uridine,0.478510976,1.421758965
+Val,1.624607001,1.124084446
+Xanthine,2.930855885,NA

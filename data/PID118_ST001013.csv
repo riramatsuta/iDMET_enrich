@@ -1,0 +1,14 @@
+,Weight Stable_Female vs Control_Female,Weight Stable_Male vs Control_Male
+ metabolite_name,ratio,ratio
+Lactate,0.649368,1.091646
+Succinate,0.990285,1.145533
+Fumarate,0.583007,0.865206
+Oxaloacetate,0.840000,1.119048
+Ketoglutarate,0.971961,1.386630
+Malate,0.814100,1.053903
+Aspartate,0.857022,1.305318
+2-Hydroxyglutarate,0.754217,1.228792
+Glutamate,0.918223,1.520341
+cis-Aconitic Acid,0.833209,0.753008
+Citrate,0.951319,0.876449
+Isocitrate,1.064840,0.809463

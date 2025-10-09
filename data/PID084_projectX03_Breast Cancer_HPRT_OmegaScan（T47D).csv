@@ -1,0 +1,438 @@
+,T47D -HPRT vs T47D +HPRT1
+Compound name,ratio
+"1-Aminocyclopropane-1-carboxylic acid
+Homoserinelactone",0.929859592
+1-Methyl-4-imidazoleacetic acid,0.872082778
+1-Methyladenosine,1.09602788
+1-Methylnicotinamide,
+11-Aminoundecanoic acid,0.969352798
+1H-Imidazole-4-propionic acid,0.980369916
+"2'-Deoxyadenosine
+5'-Deoxyadenosine",0.490177771
+2'-Deoxycytidine,0.827613284
+2'-Deoxyguanosine,1.466160524
+"2,3-Diphosphoglyceric acid",1.129017996
+2-(Creatinine-3-yl)propionic acid,0.604957638
+"2-Amino-2-(hydroxymethyl)-1,3-propanediol",0.942567006
+"2-Aminoadipic acid
+O-Acetylhomoserine",0.936736097
+"2-Aminobutyric acid
+2-Aminoisobutyric acid",0.894438776
+2-Aminoethylphosphonic acid,
+2-Deoxyglucose 6-phosphate,
+2-Deoxystreptamine,
+2-Hydroxybutyric acid,1.446316116
+2-Hydroxyglutaric acid,1.068701486
+"2-Hydroxyoctanoic acid-1
+8-Hydroxyoctanoic acid-1",
+"2-Hydroxyoctanoic acid-2
+8-Hydroxyoctanoic acid-2",
+2-Oxoglutaric acid,0.977502289
+2-Oxoisovaleric acid,
+2-Phosphoglyceric acid,1.576011684
+"3',5'-ADP",
+"3,4-Dihydroxyphenylglycol",
+3-Amino-2-piperidone,0.794461687
+3-Aminoisobutyric acid,0.941396815
+3-Guanidinopropionic acid,0.919795506
+3-Hydroxy-3-methylglutaric acid,0.72029561
+3-Hydroxyanthranilic acid,0.781848345
+3-Hydroxybutyric acid,0.750656476
+3-Methoxy-4-hydroxyphenylethyleneglycol,
+3-Methoxyanthranilic acid,
+3-Methoxytyramine,0.652795669
+3-Methoxytyrosine,
+3-Methylguanine,0.855020768
+"3-Methylhistidine-1
+1-Methylhistidine-1",1.025813801
+"3-Methylhistidine-2
+1-Methylhistidine-2",0.875786596
+3-Phenylpropionic acid,0.802207941
+3-Phosphoglyceric acid,1.401684384
+4-Acetamidobutanoic acid,0.992962856
+4-Guanidinobutyric acid,1.028777782
+4-Hydroxyphenylacetaldehyde,
+4-Hydroxyphenylglycine,
+"4-Methyl-2-oxovaleric acid
+3-Methyl-2-oxovaleric acid
+2-Oxohexanoic acid",0.991565663
+4-Methylpyrazole,
+4-Oxopyrrolidine-2-carboxylic acid,0.944783566
+4-Oxovaleric acid,
+5'-Deoxy-5'-methylthioadenosine,0.808782342
+5-Amino-4-oxovaleric acid,1.046726136
+5-Aminoimidazole-4-carboxamide ribotide,
+5-Aminoindole,1.070970713
+5-Hydroxylysine,0.57283019
+5-Oxoproline,0.763632809
+6-Aminopenicillanic acid,0.973341874
+6-Hydroxyhexanoic acid,0.615958927
+6-Phosphogluconic acid,0.920745401
+"7,8-Dihydrobiopterin",1.042126102
+Acetyl CoA_divalent,1.111249144
+Acetylcholine,1.2320897
+Adenine,0.734639765
+Adenosine,0.392689092
+Adenosine 5'-phosphosulfate,0.75719333
+ADMA,0.837656669
+ADP,0.666507763
+"ADP-glucose
+GDP-fucose",0.860792419
+ADP-ribose,1.251665011
+Adrenaline,
+Ala,0.99860064
+"Ala-Ala
+Daminozide",1.141936974
+AMP,0.357740578
+Anserine_divalent,0.796831398
+Arg,0.623450513
+Arg-Glu,1.04775216
+Arginine ethyl ester,1.078768695
+Argininosuccinic acid,1.072829134
+Ascorbate 2-phosphate,1.166798125
+Asn,0.961200152
+Asp,1.016437468
+Aspartame,0.745576404
+ATP,0.737100906
+Azelaic acid,0.369036454
+Betaine,0.962412618
+Biopterin,0.821832723
+Biotin,0.672848897
+"Butyric acid
+Isobutyric acid",0.731254237
+Butyrylcarnitine,0.975940586
+cAMP,1.034399157
+Carboxymethyllysine,0.72199954
+Carnitine,1.002143686
+Carnosine,0.601308059
+CDP,1.267274162
+CDP-choline,0.818585882
+Choline,1.020238943
+cis-4-Hydroxyproline,0.7032914
+cis-Aconitic acid,0.912652845
+Citramalic acid,
+Citric acid,0.908898435
+Citrulline,0.775057167
+CMP,0.606176123
+CMP-N-acetylneuraminate,0.908874674
+CoA_divalent,0.847322853
+Creatine,0.797115456
+Creatinine,0.765843954
+CTP,1.471881636
+Cys,0.925203305
+Cys-Gly,
+Cystathionine,0.886390772
+Cysteine glutathione disulfide,0.456066645
+Cysteinesulfinic acid,
+Cystine,
+Cytidine,0.518731366
+Cytosine,
+dADP,0.525953441
+dAMP,
+dATP,0.680609118
+dCDP,0.470789277
+dCMP,1.01932704
+dCTP,1.001765939
+Decanoic acid,0.823639443
+dGTP,0.914082811
+Diethanolamine,0.61373032
+Dihydroorotic acid,0.910254278
+Dihydrouracil,
+Dihydroxyacetone phosphate,0.474482635
+"Dopamine
+Octopamine",0.794543266
+dTDP,0.603459556
+dTDP-glucose,1.282868415
+dTMP,0.630255387
+dTTP,0.956389644
+dUMP,0.913596618
+Ethanolamine phosphate,0.91263549
+Ethyl glucuronide,
+FAD_divalent,0.732302244
+Ferulic acid,
+FMN,
+Folic acid,0.295175074
+"Fructose 1,6-diphosphate",0.589191723
+Fructose 6-phosphate,0.730182259
+Fumaric acid,0.998403499
+GABA,0.773808985
+GDP,0.73412676
+"GDP-mannose
+GDP-galactose
+GDP-glucose",0.956478228
+Gln,0.891410646
+Glu,0.951621394
+Glu-Glu,0.897884956
+Gluconic acid,0.964681008
+Gluconolactone,
+Glucose 1-phosphate,0.988210526
+Glucose 6-phosphate,0.725618901
+Glucurone,
+"Glucuronic acid
+Galacturonic acid",0.882892795
+"Glutaric acid-1
+Methylsuccinic acid-1",0.944947977
+"Glutaric acid-2
+Methylsuccinic acid-2",1.158084371
+Glutaryl CoA_divalent,0.841126795
+Glutathione (GSH),1.080772848
+Glutathione (GSSG)_divalent,0.707149068
+Gly,1.094431317
+Gly-Asp,0.906505023
+Gly-Gly,0.904270145
+Glyceraldehyde 3-phosphate,
+Glyceric acid,0.448702006
+Glycerol,0.850325715
+Glycerol 2-phosphate,
+Glycerol 3-phosphate,1.368422783
+Glycolic acid,0.582227878
+GMP,0.467063537
+GTP,0.823905307
+Guanidinosuccinic acid,0.871502471
+Guanidoacetic acid,0.443745379
+Guanine,56.01499302
+Guanosine,0.699315912
+Heptanoic acid,
+Hexamine,1.113840115
+Hexanoic acid,
+Hippuric acid,0.569820277
+His,0.824788628
+His-Glu,0.996866805
+HMG CoA_divalent,0.636488554
+Homoarginine,0.709296764
+Homocarnosine,0.7011452
+Homocitrulline,0.860919381
+Homocysteine,1.923049345
+Homoserine,
+"Homovanillic acid
+3,4-Dihydroxyhydrocinnamic acid
+Hydroxyphenyllactic acid",0.939316392
+Hydroxyproline,0.878351572
+Hypotaurine,0.898814682
+Hypoxanthine,15.13172771
+Ile,0.886189533
+Ile-Pro-Pro,
+Imidazole-4-acetic acid,0.845016395
+Imidazolelactic acid,1.192233157
+IMP,0.832576237
+Inosine,1.911744684
+Isethionic acid,0.92153155
+Isocitric acid,0.911488788
+Isovalerylcarnitine,1.023804959
+ITP,
+Kynurenine,0.622973107
+Lactic acid,0.971060358
+Lauric acid,0.768502197
+Lauroylcarnitine,0.877674959
+Leu,0.869263358
+Lys,0.510287987
+Malic acid,1.017093693
+Malonylcarnitine,0.977173656
+Melamine,1.742707387
+Met,0.87855847
+Methionine sulfoxide,0.842403811
+Methylguanidine,0.928855458
+Mevalolactone,1.104092322
+Muscimol,0.920248314
+"myo-Inositol 1-phosphate
+myo-Inositol 3-phosphate",0.958546346
+myo-Inositol 2-phosphate,0.836391457
+Myristic acid,0.567824499
+Myristoleic acid,0.746384297
+"N,N-Dimethylglycine",0.790568768
+N-Acetylalanine,1.068804835
+N-Acetylasparagine,
+N-Acetylaspartic acid,0.954842779
+N-Acetylcysteine,
+N-Acetylglucosamine 1-phosphate,0.862620893
+N-Acetylglucosamine 6-phosphate,0.931490911
+"N-Acetylglucosamine
+N-Acetylmannosamine
+N-Acetylgalactosamine",
+N-Acetylglucosylamine,0.708838501
+N-Acetylglutamic acid,0.748212545
+N-Acetylglutamine,
+N-Acetylglycine,0.880691227
+N-Acetylhistidine,0.865293198
+N-Acetyllysine,1.162777073
+N-Acetylmethionine,1.060166829
+N-Acetylmuramic acid,0.169450355
+N-Acetylneuraminic acid,0.630119039
+N-Acetylornithine,1.193173474
+N-Acetylputrescine,0.973805971
+N-Acetylserine,1.015593355
+N-Carbamoylaspartic acid,0.835142511
+N-Formylmethionine,
+N-Glycolylneuraminic acid,0.628095159
+N-Methylnorsalsolinol,
+N-Methylputrescine,
+N-Succinyl-5-aminoimidazole-4-carboxamide ribose 5'-phosphate_divalent,
+"N1,N12-Diacetylspermine",
+"N1,N8-Diacetylspermidine",
+N1-Acetylspermidine,1.012955884
+N1-Acetylspermine,
+N1-Methylguanosine,0.672151149
+N2-Acetylaminoadipic acid,
+"N6,N6,N6-Trimethyllysine",0.788142711
+N6-Acetyllysine,0.745803963
+N6-Methyl-2'-deoxyadenosine,0.553695296
+N6-Methyllysine,0.643543025
+N8-Acetylspermidine,1.194212629
+NAD+,0.90289777
+NADH,0.781593134
+NADP+,0.935915935
+NADPH_divalent,0.703018597
+Nicotinamide,0.668649292
+Nicotine,
+NMN,1.575358271
+NÅf-Formylkynurenine,0.314878558
+NÉ÷-Methylarginine,0.88183464
+O-Acetylcarnitine,0.852979215
+O-Phosphoserine,1.673396883
+O-Succinylhomoserine,1.190728332
+"o-Toluic acid
+p-Toluic acid
+m-Toluic acid",
+Octanoic acid,
+Octanoylcarnitine,0.621613256
+Octopine,0.989758144
+Ophthalmic acid,0.917207176
+Ornithine,0.587799709
+Orotic acid,
+Orotidine,1.830296648
+p-Aminobenzoic acid,
+"P1, P4-Di(adenosine-5') tetraphosphate_divalent",0.520230084
+Pantothenic acid,0.833198682
+Pargyline,1.17214994
+Pelargonic acid,0.924755859
+Penciclovir,0.585542178
+Penicillamine,1.118516648
+Phe,0.889910819
+Phenol,
+Phosphocreatine,0.914761158
+Phosphoenolpyruvic acid,1.491536069
+Phosphorylcholine,0.784879585
+Phytic acid_divalent,0.943714516
+Picolinamide,
+Pipecolic acid,1.02349438
+Piperidine,0.683476449
+Pro,0.928743433
+PRPP,2.992185229
+Putrescine,0.86857034
+Pyridoxal,0.90690148
+Pyridoxamine,0.945698739
+Pyridoxamine 5'-phosphate,0.895580099
+Pyridoxine,0.70964543
+Pyruvic acid,0.997399758
+Quinic acid,0.191091937
+Retinoic acid,1.237565093
+Ribose 5-phosphate,2.884799145
+"Ribulose 1,5-diphosphate",
+Ribulose 5-phosphate,1.040645621
+S-Adenosylhomocysteine,0.983174997
+S-Adenosylmethionine,0.960977231
+S-Carboxymethylcysteine,
+S-Lactoylglutathione,0.817928359
+S-Methylcysteine,0.759395011
+S-Methylglutathione,1.008107945
+S-Methylmethionine,0.456923769
+S-Nitrosoglutathione,1.478026638
+Saccharopine,0.765507648
+Sarcosine,0.7767558
+SDMA,0.804369694
+Sebacic acid,
+Sedoheptulose 7-phosphate,0.849592793
+Ser,0.837156757
+Ser-Glu,1.369126147
+Serotonin,
+Sorbitol 6-phosphate,0.966242481
+Spermidine,0.964969417
+Spermine,1.008187907
+Suberic acid,
+Succinic acid,0.769557452
+Sulfotyrosine,0.581496462
+Taurine,0.859215093
+Taurocyamine,
+Terephthalic acid,
+Thiamine,0.890382631
+Thiamine diphosphate,0.898929282
+Thiamine phosphate,
+Thiaproline,0.463828182
+Thr,0.88963181
+Thr-Asp,
+Threonic acid,0.932684377
+Topiramic acid,0.516217194
+trans-Glutaconic acid,
+Tridecanoic acid,0.765797252
+Triethanolamine,0.853740796
+Trp,0.821909138
+Tyr,0.905179888
+Tyr-Arg_divalent,
+Tyr-Glu,1.023492584
+Tyramine,
+Tyrosine methyl ester,1.024063223
+UDP,1.539458383
+"UDP-glucose
+UDP-galactose",1.356274577
+UDP-glucuronic acid,1.079881736
+"UDP-N-acetylglucosamine
+UDP-N-acetylgalactosamine",1.289214195
+UMP,0.719632475
+Undecanoic acid,0.769085034
+Urea,0.744736524
+Uric acid,
+Urocanic acid,0.355054872
+UTP,1.716677324
+Val,0.827543966
+XA0004,0.850931351
+XA0012,0.975873053
+XA0013,0.855797454
+XA0017,
+XA0033,
+XA0055,1.442719978
+XA0065,1.212364068
+Xanthine,0.578217782
+Xanthopterin,0.979467705
+XC0016,0.900421339
+XC0017,0.554153664
+XC0040,0.944455569
+"XC0061
+Propionylcarnitine",1.049967597
+XC0065,0.630191881
+XC0071,0.747731812
+"XC0089
+Nicotinamide riboside",1.029161558
+XC0126,0.55620469
+XC0132,0.626999106
+XC0137,0.73436616
+XMP,
+Xylulose 5-phosphate,1.003233873
+É¿-Ala,0.947497863
+É¿-Ala-Lys,1.146931686
+É¿-Hydroxyisovaleric acid,0.859503908
+É¿-Leucine,
+É¡-Butyrobetaine,0.979321473
+É¡-Glu-Ala,0.729320375
+É¡-Glu-Arg_divalent,0.355781773
+É¡-Glu-Asn,1.194839922
+É¡-Glu-Cys,0.473808913
+É¡-Glu-Gln,0.806375884
+É¡-Glu-Glu,0.862874238
+É¡-Glu-Gly,1.00380548
+"É¡-Glu-Ile
+É¡-Glu-Leu",0.826937119
+É¡-Glu-Lys_divalent,
+É¡-Glu-Ornitine,0.995431471
+É¡-Glu-Phe,1.495738616
+É¡-Glu-Ser,0.752663775
+É¡-Glu-Taurine,0.84028053
+É¡-Glu-Thr,0.696391286
+É¡-Glu-Val,0.797060684
+É¡-Glu-Val-Gly,0.980717668
+É¡-Glutamyl-S-Allylcysteine,1.499789639
+,
+,
+,
+,
+,
+,

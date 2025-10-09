@@ -1,0 +1,69 @@
+,DRB18 vs Control
+ metabolite_name,ratio
+D-glucose,0.792909
+Glucose-6-Phosphate,0.712341
+Dihydroxyacetone phosphate,0.785257
+Pyruvic acid,0.635553
+L-Lactic acid,0.728498
+Acetyl CoA,0.430868
+Malic acid,0.641930
+Succinic acid,0.692324
+NADPH,0.638203
+GSH,0.614644
+GSSG,1.379385
+L-glutamine,0.624488
+Glucosamine,0.614326
+Uridine diphosphate-N-acetylglucosamine,0.687428
+N-Acetyl-D-glucosamine,0.499778
+N-Acetyl-D-Glucosamine 6-Phosphate,0.862987
+AICAR,0.530017
+Adenosine,0.635941
+Hypoxanthine,0.893420
+dGDP,0.574961
+ADP,0.555153
+dGTP,0.726329
+Deoxyguanosine,0.525930
+Ureidosuccinic acid,0.949172
+Orotidine 5'-phosphate,1.786450
+Thymidine,0.625240
+dUTP,0.709670
+UTP,0.698984
+dCTP,0.818587
+But-2-enoic acid,2.956929
+Leukotriene D4,2.111130
+Vanillylmandelic acid,2.199812
+Pyrroline hydroxycarboxylic acid,1.143999
+Sphingosine,2.487629
+(R)-3-Hydroxyhexanoic acid,1.678156
+Niacinamide,1.154541
+4-Methylpentanal,2.248474
+5b-Cyprinol sulfate,1.517015
+Glycine,0.515069
+Prostaglandin E2,1.984037
+L-Palmitoylcarnitine,1.809150
+Phosphoribosyl formamidocarboxamide,0.445289
+Uridine 5'-diphosphate,0.689098
+3-Hydroxy-3-methylglutaryl-CoA,0.396542
+L-Lysine,0.699686
+Spermidine,2.513277
+Galabiosylceramide (d18:1/22:0),2.070579
+Sucrose,0.422802
+(R)-3-Hydroxydodecanoic acid,0.786182
+trans-Dodec-2-enoic acid,1.254897
+Lactaldehyde,1.669949
+Glycerol,0.944207
+"19-Hydroxyandrost-4-ene-3,17-dione",2.074050
+Phenylpyruvic acid,0.851374
+Fructose 6-phosphate,0.687547
+2-Ethylacrylic acid,0.785158
+(R)-3-Hydroxybutyric acid,0.785257
+Phosphoserine,0.990199
+Inosinic acid,1.088098
+Glycineamideribotide,0.511624
+Deoxycytidine,0.763811
+L-Arginine,1.301445
+L-Aspartic acid,0.641399
+L-Histidine,1.046626
+L-Isoleucine,0.649807
+L-Leucine,1.274074
+L-Proline,0.991366

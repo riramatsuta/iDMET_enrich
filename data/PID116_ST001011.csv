@@ -1,0 +1,14 @@
+,Weight Stable_Female vs Control_Female,Weight Stable_Male vs Control_Male
+ metabolite_name,ratio,ratio
+EPA,0.967741935,1.206896552
+linolenic,1.209735577,0.995098039
+DHA,0.918367347,1.62
+myristic,0.890243902,1.277142857
+palmitoleic,1.160818713,0.994212219
+arachidonic,0.83277027,1.353080569
+palmitelaidic,NA,NA
+linoleic,1.006830052,0.94188862
+palmitic,0.90841737,1.210092161
+oleic,0.875078975,1.07672578
+elaidic,0.869436202,1.342450766
+stearic,0.754323899,1.11838589

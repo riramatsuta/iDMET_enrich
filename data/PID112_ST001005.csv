@@ -1,0 +1,44 @@
+,Weight Stable vs Control
+ metabolite_name,ratio
+Histidine,0.683539
+Hydroxyproline,0.643382
+1-Methylhistidine,1.745968
+3-Methylhistidine,0.351282
+Asparagine,0.74277
+Phosphoethanolamine,0.710327
+Arginine,0.744616
+Carnosine,0.802654
+Taurine,0.653868
+Anserine,0.803867
+Serine,0.764653
+Glutamine,0.694422
+Ethanolamine,0.700000
+Glycine,0.616533
+Aspartic Acid,1.002288
+Sarcosine,0.583333
+Citrulline,0.588015
+Glutamic Acid,0.662005
+beta-Alanine,0.91573
+Threonine,0.688013
+Alanine,0.791475
+gamma-Amino-N-butyric-acid,0.681818
+alpha-Aminoadipic-acid,0.855819
+beta-Aminoisobutyric-acid,0.554167
+Proline,0.67861
+Hydroxylysine 1,NA
+Hydroxylysine 2,NA
+alpha-Amino-N-butyric-acid,0.743243
+Ornithine,0.809437
+Cystathionine 1,1.000000
+Cystathionine 2,NA
+Lysine,0.774456
+Cystine,1.000000
+Tyrosine,0.777592
+Methionine,0.702941
+Valine,0.702504
+Isoleucine,0.735632
+allo-Isoleucine,0.333333
+Homocystine,NA
+Leucine,0.693223
+Phenylalanine,0.721649
+Tryptophan,0.794521

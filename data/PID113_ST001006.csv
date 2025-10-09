@@ -1,0 +1,14 @@
+,Weight Stable vs Control
+ metabolite_name,ratio
+Lactate,0.712434108
+Succinate,0.757641921
+Fumarate,0.811170213
+Oxaloacetate,NA
+Ketoglutarate,0.279359431
+Malate,0.989542802
+Aspartate,1.038053506
+2-Hydroxyglutarate,0.704918033
+Glutamate,0.676818182
+cis-Aconitic Acid,0.833333333
+Citrate,0.89504618
+Isocitrate,0.923076923

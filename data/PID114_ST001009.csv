@@ -1,0 +1,13 @@
+,Weight Stable_Male vs Control_Male,Weight Stable_Female vs Control_Female
+ metabolite_name,ratio,ratio
+Carnitine,0.826291,0.882231
+Acetylcarnitine (C2),1.232742,0.808753
+Propionylcarnitine (C3),1.026786,0.940299
+Butyrylcarnitine (C4),2.337838,0.783333
+Isovalerylcarnitine (C5),1.125,0.25
+Octanoylcarnitine (C8),1.666667,0.571429
+Lauroylcarnitine (C12),NA,0.25
+Myristoylcarnitine (C14),1.5,0.642857
+Palmitoylcarnitine (C16),1.195652,0.633333
+Oleoylcarnitine (C18:1),1.081967,0.66129
+Stearoylcarnitine (C18),1.285714,0.653846

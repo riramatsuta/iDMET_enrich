@@ -1,0 +1,135 @@
+,siMCJkd vs Control
+metabolite_name,ratio
+gamma-Glutamylglutamine,0.995923706
+Allantoin,1.144686535
+Uracil,1.024633862
+2-Oxoglutarate,0.894676836
+2/3-Phospho-D-glycerate,0.968925954
+"3',5'-Cyclic AMP",0.769613523
+3-Methyleneoxindole,1.090445857
+3-Phosphonooxypyruvate,0.849596555
+5'-Phosphoribosyl-N-formylglycinamide,0.887469701
+5-6-Dihydrothymine,1.067888447
+5-6-Dihydrouracil,1.075782907
+5-Hydroxyindoleacetate,1.130689774
+5-Hydroxyisourate,1.010825966
+5-Oxoproline,1.040815972
+6-Phospho-D-gluconate,1.159272165
+Acetylcholine,0.948686846
+acyl-C10 (O-Decanoyl-L-carnitine),1.020368433
+acyl-C12:1 (O-dodecenoyl-carnitine),0.867230961
+acyl-C2 (acetyl-carnitine),0.941583407
+acyl-C3 (propionyl-carnitine),0.979330459
+acyl-C4-OH (Hydroxybutyrylcarnitine),1.045134704
+acyl-C4 (butanoyl-l-carnitine),1.038970902
+acyl-C5 (isovalerylcarnitine),1.12449013
+acyl-C5:1 (Tiglylcarnitine),0.907371054
+acyl-C6 (hexanoyl-l-carnitine),1.053655979
+acyl-C8 (L-octanoylcarnitine,1.025683285
+acyl-C8:1 (octenoyl-l-carnitine),1.035111896
+Adenine,0.876236072
+Adenosine,0.915342122
+Adenylosuccinic acid,1.230560503
+ADP,1.098044822
+alpha-D-Ribose 1-phosphate,0.931811548
+AMP,0.961476832
+Anthranilate,1.107393069
+Argininosuccinate,1.098417491
+Ascorbate,1.326482623
+ATP,0.781303108
+Carnosine,0.888995005
+CDP-choline,1.58822667
+Cholesterol sulfate,1.926296076
+Choline,1.160369668
+cis-p-Coumarate,0.979045619
+Citrate,0.857880867
+CMP,1.005798063
+CMP-N-acetylneuraminate,1.097977281
+Creatine,1.109468185
+Creatinine,1.097169556
+Cys-Gly,0.915466625
+Cystathionine,1.035120655
+Cytidine,0.979351999
+Cytosine,0.964141502
+D-Arabitol,1.429519117
+D-Fructose 1-6-bisphosphate,1.004010683
+D-Glucose,1.75380506
+Dehydroascorbate,0.889765168
+Dimethylglycine,1.120238467
+Diphosphate,0.949686754
+dTMP,1.064342516
+Ethanolamine phosphate,1.410880757
+Fumarate,1.163354523
+g-Oxalo-crotonate,1.31370798
+gamma-L-Glutamyl-D-alanine,1.015584106
+gamma-L-Glutamyl-L-cysteine,0.921314386
+GDP,1.053937814
+Glutathione,0.956997394
+Glutathione disulfide,1.123369038
+Glycerol 3-phosphate,1.147002879
+glycine,1.033866327
+Glycochenodeoxycholic acid,0.973129892
+GMP,1.000430118
+GTP,0.557089531
+Guanosine,1.007381334
+Hexanoic acid (caproate),2.137020973
+Hypoxanthine,1.129612359
+Indole,1.219481946
+Indole-3-acetate,1.153801593
+Inosine,1.082326892
+L-alanine,1.138028608
+L-arginine,0.832987035
+L-asparagine,1.080960252
+L-aspartate,1.338553465
+L-Carnitine,1.010296994
+L-Citrulline,1.568496099
+L-cysteine,1.089141859
+L-glutamate,1.167503913
+L-glutamine,1.195024178
+L-histidine,0.978870724
+L-leucine,1.04603018
+L-lysine,0.974670598
+L-methionine,1.077388003
+L-Methionine S-oxide,1.106785806
+L-phenylalanine,1.071472562
+L-proline,1.149426019
+L-serine,1.103066459
+L-threonine,1.05263598
+L-tryptophan,1.216447472
+L-tyrosine,0.993516173
+L-valine,1.016304417
+Lactate,1.046842375
+Malate,1.223411146
+Mannitol,0.597581168
+N-Acetylornithine,1.002060653
+N-Methylethanolamine phosphate,1.126696041
+NAD+,1.043648468
+Nicotinamide,1.079987492
+Ornithine,0.997874942
+Oxalosuccinate,2.81008491
+Pantothenol,1.006071264
+Pentanoate (valerate),1.842180626
+Putrescine,1.156920626
+Pyridoxal,1.709767512
+Pyridoxamine 5'-phosphate,1.179978503
+Pyruvate,0.945104979
+quinolinic acid,1.123195426
+S-Acylglutathione,1.035604805
+S-Adenosyl-L-methionine,0.989262846
+S-Glutathionyl-L-cysteine,2.443663258
+Shikimate 3-phosphate,1.173402341
+sn-glycero-3-Phosphoethanolamine,0.987924738
+Spermidine,0.836096769
+Spermine,0.57642614
+Sphingosine,0.486412227
+Succinate,1.099299498
+Taurine,1.111411385
+Tauroursodeoxycholic/taurochenodeoxycholic/taurodeoxycholic acid,0.836142398
+Thymine,1.154008828
+trans-4-Hydroxy-L-proline,1.18750232
+UDP,1.24188747
+UDP-glucose,0.858938988
+UDP-N-acetyl-D-glucosamine,0.950036196
+UMP,1.042096497
+Uracil,1.01541807
+Xanthine,1.076931005
