@@ -2,17 +2,15 @@
 
 ## Overview
 The iDMET project provides a framework for interpreting metabolomic data using differential metabolite profiles.  
-This repository extends iDMET to perform enrichment analysis on metabolite sets.  
 This README provides instructions for running the code with your own data.
 
-The main goals of iDMET+ are to:
+The analysis consists of the following steps:
 
-1. Process and organize metabolomic datasets from multiple studies.
-2. Identify significant metabolites in each comparison.
-3. Perform odds ratio calculations and enrichment analysis.
-4. Generate annotation lists for MSEA (Metabolite Set Enrichment Analysis).
-5. Visualize metabolite networks and pathway enrichment results.
-
+1. Process and organize metabolomic datasets from multiple studies  (standardizes metabolite names and prepares datasets):  `metabolite_mapping.R`
+2. Identify significant metabolites in each comparison
+3. Perform odds ratio calculations
+4. Generate metabolite set lists
+5. Enrichment analysis:  `msea_ora.R`
 
 ## Requirements
 - R 4.0 or higher
@@ -31,7 +29,6 @@ You need to prepare a CSV file containing **all metabolites detected in your dat
 
 This ensures that the enrichment analysis accounts for all detected metabolites, reducing potential bias that could arise from using only significantly changed metabolites.
 
-**Note:** Do not use the example files provided for reproducing our study. Use your actual data files.
 
 
 ## Output
@@ -51,7 +48,6 @@ Specify the paths to your CSV file and the output directory in the script.
 * Pathway Set List
 
   * The file `iDMET_pathwaylist.csv` contains the main pathway set list provided by this study.
-    It includes representative metabolic pathways used for enrichment analysis in iDMET+.  
 
 - **Format**: CSV file
 - **Columns**:
@@ -59,8 +55,6 @@ Specify the paths to your CSV file and the output directory in the script.
   - Pathway Name
   - Metabolites included in the pathway
 - **Usage**: This file is used by `msea_ora.R` to perform pathway-based enrichment analysis.  
-
-**Note:** Do not modify the file. Use it as provided for reproducing the analyses or for your own enrichment studies.
 
 * Data
   
