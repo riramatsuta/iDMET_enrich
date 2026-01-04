@@ -21,32 +21,46 @@ The main goals of iDMET+ are to:
   - cytoscape
   - clusterProfiler
 
----
 
 ## Input Data
 You need to prepare a CSV file containing **all metabolites detected in your dataset**, including both those that changed (differential metabolites) and those that did not. The file should include:
 
 1. **Metabolite names**  
 2. **Fold changes or p-values**  
-3. **Indication of increased or decreased metabolites**  
+
 
 This ensures that the enrichment analysis accounts for all detected metabolites, reducing potential bias that could arise from using only significantly changed metabolites.
 
 **Note:** Do not use the example files provided for reproducing our study. Use your actual data files.
 
+
 ## Output
   * Enrichment results (CSV)
----
 
 ## How to Run
 Use the script `msea_ora.R` to perform the enrichment analysis.  
 Specify the paths to your CSV file and the output directory in the script.  
 
----
+
+
 ## Dataset Description
 * Annoation list (metabodic.csv)
 
   * The annotation list presents metabolites in an organized manner, listing each common metabolite name together with its synonyms. This structured information facilitates enrichment analysis and helps ensure consistent identification of metabolites across different datasets.
+
+* Pathway Set List
+
+  * The file `iDMET_pathwaylist.csv` contains the main pathway set list provided by this study.
+    It includes representative metabolic pathways used for enrichment analysis in iDMET+.  
+
+- **Format**: CSV file
+- **Columns**:
+  - Pathway ID
+  - Pathway Name
+  - Metabolites included in the pathway
+- **Usage**: This file is used by `msea_ora.R` to perform pathway-based enrichment analysis.  
+
+**Note:** Do not modify the file. Use it as provided for reproducing the analyses or for your own enrichment studies.
 
 * Data
   
