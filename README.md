@@ -35,7 +35,7 @@ The analysis consists of the following steps:
   - Pathway ID
   - Pathway Name
   - Metabolites included in the pathway
-- **Usage**: This file is used by `msea_ora.R` to perform pathway-based enrichment analysis.  
+- **Usage**: This file is used by `iDMET_msea_source.R, msea_ora.R` to perform pathway-based enrichment analysis.  
 
 * Data
   
@@ -44,7 +44,7 @@ The analysis consists of the following steps:
 
 
 ##  How to Perform Enrichment Analysis
-Use the script `msea_ora.R` to perform the enrichment analysis.  
+Use the script `iDMET_msea_source.R, msea_ora.R` to perform the enrichment analysis.  
 Specify the paths to your CSV file and the output directory in the script.  
 
 * Input Data
