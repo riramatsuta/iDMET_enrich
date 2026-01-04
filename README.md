@@ -9,9 +9,9 @@ To perform enrichment analysis with your own data, you only need to execute Step
 The analysis consists of the following steps:
 
 1. Process and organize metabolomic datasets from multiple studies  (standardizes metabolite names and prepares datasets):  `db_step1.R`
-2. Identify significant metabolites in each comparison: `db_step2.R`
-3. Perform odds ratio calculations: `db_step3.R`
-4. Generate metabolite set lists: `iDMET_setlist.R`
+2. Identify significant metabolites in each comparison:  `db_step2.R`
+3. Perform odds ratio calculations:  `db_step3.R`
+4. Generate metabolite set lists:  `iDMET_setlist.R`
 5. Enrichment analysis:  `iDMET_msea_source.R, msea_ora.R`
 
 ## Requirements
