@@ -1,8 +1,11 @@
-# Overview
+# iDMET+ Enrichment Analysis Pipeline
 
-The iDMET project provides a framework for interpreting metabolomic data using differential metabolite profiles. This repository extends iDMET to perform enrichment analysis on metabolite sets.
+## Overview
+The iDMET project provides a framework for interpreting metabolomic data using differential metabolite profiles.  
+This repository extends iDMET to perform enrichment analysis on metabolite sets.  
+This README provides instructions for running the code with your own data.
 
-The main goals are:
+The main goals of iDMET+ are to:
 
 1. Process and organize metabolomic datasets from multiple studies.
 2. Identify significant metabolites in each comparison.
@@ -10,12 +13,36 @@ The main goals are:
 4. Generate annotation lists for MSEA (Metabolite Set Enrichment Analysis).
 5. Visualize metabolite networks and pathway enrichment results.
 
-## Requirement
 
-- igraph
-- cytoscape
-- clusterProfiler
+## Requirements
+- R 4.0 or higher
+- R packages:
+  - igraph
+  - cytoscape
+  - clusterProfiler
 
+---
+
+## Input Data
+You need to prepare a CSV file containing **all metabolites detected in your dataset**, including both those that changed (differential metabolites) and those that did not. The file should include:
+
+1. **Metabolite names**  
+2. **Fold changes or p-values**  
+3. **Indication of increased or decreased metabolites**  
+
+This ensures that the enrichment analysis accounts for all detected metabolites, reducing potential bias that could arise from using only significantly changed metabolites.
+
+**Note:** Do not use the example files provided for reproducing our study. Use your actual data files.
+
+## Output
+  * Enrichment results (CSV)
+---
+
+## How to Run
+Use the script `msea_ora.R` to perform the enrichment analysis.  
+Specify the paths to your CSV file and the output directory in the script.  
+
+---
 ## Dataset Description
 * Annoation list (metabodic.csv)
 
@@ -26,7 +53,10 @@ The main goals are:
   * The data used for iDMET analysis, consisting of 130 studies, can be found in the `data` folder.  
     The data used as queries for the enrichment analysis are located in the `query_data` folder.
 
+
 ## References
 - Rira Matsuta, Hiroyuki Yamamoto, Masaru Tomita, Rintaro Saito, "iDMET: network-based approach for integrating differential analysis of cancer metabolomics", BMC Bioinformatics, 23:508 (2022).
+
+
 
 
