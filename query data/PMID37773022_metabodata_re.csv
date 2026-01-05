@@ -1,5 +1,5 @@
 ,,,,DMS273_HPRT1-KO vs DMS273_WT (ratio),DMS273_HPRT1-KO vs DMS273_WT (p-value)
-No.,KEGG ID,Compound name_ori,Compound name_DB,Ratio,p.value
+No.,KEGG ID,Compound name_ori,Compound name,Ratio,p.value
 1,C02494,1-Methyladenosine,1-methyladenosine,0.914681574,0.403395305
 2,C05127,1-Methylhistamine,1-methylhistamine,0.964457645,1
 3,C02918,1-Methylnicotinamide,1-methylnicotinamide,1.656526573,0.01218578
@@ -90,8 +90,8 @@ No.,KEGG ID,Compound name_ori,Compound name_DB,Ratio,p.value
 88,C00103,G1P,D-Glucose 1-phosphate,1.690435685,0.021571748
 89,C00092,G6P,glucose 6-phosphate,5.298938241,0.01218578
 90,C00334,GABA,4-Aminobutanoate,0.915370097,1
-91,C01181,gamma-Butyrobetaine,É¡-Butyrobetaine,0.648168736,0.01218578
-92,C00669,gamma-Glu-cys,É¡-glutamylcysteine,0.994114718,1
+91,C01181,gamma-Butyrobetaine,¬É√Å-Butyrobetaine,0.648168736,0.01218578
+92,C00669,gamma-Glu-cys,¬É√Å-glutamylcysteine,0.994114718,1
 93,C01035,gamma-Guanidinobutyrate,4-Guanidinobutanoate,1.88256963,0.01218578
 94,C00035,GDP,GDP,1.080885261,1
 95,C00096,GDP-mannose,GDP-mannose,1.342217725,0.060102806
@@ -210,3 +210,4 @@ No.,KEGG ID,Compound name_ori,Compound name_DB,Ratio,p.value
 208,C00075,UTP,UTP,0.933749767,0.530869304
 209,C00183,Val,Val,0.861785442,0.296269872
 210,C00385,Xanthine,Xanthine,1.098221935,0.386476231
+
