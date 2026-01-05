@@ -19,6 +19,7 @@ out_file <- "./out put/MSEA result/MseaResult.csv"
 out_file_sub <- "./out put/MSEA result/unmatch_metabo.csv"
 
 # Load source file
-source(file = "./script/iDMET_msea_source.R")
+source(file = "./iDMET_msea_source.R")
+
 
 
