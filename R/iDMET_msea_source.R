@@ -11,8 +11,8 @@ INDATA <- read.csv(data, fileEncoding = "CP932", na.strings = c("", "N.A.", "N.D
 #----------------------
 INDATA2 <- INDATA %>% filter(p.value < 0.05) # threshold
 
-SIG <- as.character(INDATA2[,1])  # Significant metabolites
-ALL <- as.character(INDATA[,1])   # All metabolites
+SIG <- as.character(INDATA2$Compound.name)  # Significant metabolites
+ALL <- as.character(INDATA$Compound.name)   # All metabolites
 
 # --------------------------
 # Load enrichment file
@@ -77,5 +77,6 @@ colnames(P) <- c("Metabolic_Pathway", "Total_Metabolites", "Detected_Metabolites
 )
 
 write.csv(P, file = out_file, fileEncoding = "CP932", row.names = FALSE)
+
 
 
