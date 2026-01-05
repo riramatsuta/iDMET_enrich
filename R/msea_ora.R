@@ -5,10 +5,10 @@ rm(list=ls(all=TRUE))
 #---------------------------------
 
 # data files
-path <- "./data"
+path <- "./query data"
 
 L <- list.files(path)  # List of data files
-data <- paste(path, L[3], sep = "/")  # demo
+data <- paste(path, L[1], sep = "/")  # demo
 
 # MSEA list
 #iDMET_pathwaylist_ori <- "./data/iDMET_enrimentlist.csv"
@@ -20,6 +20,7 @@ out_file_sub <- "./out put/MSEA result/unmatch_metabo.csv"
 
 # Load source file
 source(file = "./iDMET_msea_source.R")
+
 
 
 
