@@ -1,0 +1,503 @@
+,,,Tumor vs Normal_Ratio,Tumor vs Normal_p.value
+,Compound name,Compound name_ori,Ratio,p.value
+2,Dihydroxyacetone,"1,3-dihydroxyacetone",1.3329,0.061397679
+3,"1,5-anhydro-D-glucitol","1,5-anhydroglucitol",0.9926,0.890213124
+7,15-methylpalmitate,15-methylpalmitate,1.371,0
+8,16-Hydroxypalmitate,16-hydroxypalmitate,0.74,0.030960292
+11,1-arachidonoylglycerophosphoinositol,1-arachidonoylglycerophosphoinositol,0.5469,0
+14,1-heptadecanoylglycerophosphocholine,1-heptadecanoylglycerophosphocholine,0.3185,1.46E-08
+16,1-linoleoylglycerol,1-linoleoylglycerol,1.7685,2.98E-06
+17,1-linoleoylglycerophosphocholine,1-linoleoylglycerophosphocholine,0.619,0.000163177
+22,1-oleoylglycerol,1-oleoylglycerol,1.6995,1.08E-05
+23,1-oleoylglycerophosphocholine,1-oleoylglycerophosphocholine,0.2853,0
+24,1-oleoylglycerophosphoethanolamine,1-oleoylglycerophosphoethanolamine,0.0512,0
+25,1-oleoylglycerophosphoinositol,1-oleoylglycerophosphoinositol,0.3576,0
+29,1-palmitoylglycerol,1-palmitoylglycerol,0.7969,0.006170199
+30,1-palmitoylglycerophosphocholine,1-palmitoylglycerophosphocholine,0.3428,0
+32,1-palmitoylglycerophosphoinositol,1-palmitoylglycerophosphoinositol,0.2214,0
+35,1-stearoylglycerol,1-stearoylglycerol,0.6235,1.80E-09
+36,1-stearoylglycerophosphocholine,1-stearoylglycerophosphocholine,0.3614,1.88E-07
+37,1-stearoylglycerophosphoethanolamine,1-stearoylglycerophosphoethanolamine,0.1087,0
+38,1-stearoylglycerophosphoinositol,1-stearoylglycerophosphoinositol,0.2983,0
+39,L-2-Aminoadipate,2-aminoadipate,4.6926,0
+40,2-aminobutyrate,2-aminobutyrate,1.3568,0.000000425
+43,2'-deoxyadenosine 3'-monophosphate,2'-deoxyadenosine 3'-monophosphate,1.1566,0.131814606
+44,2'-deoxycytidine 3'-monophosphate,2'-deoxycytidine 3'-monophosphate,1.583,0.222534738
+45,Deoxyguanosine,2'-deoxyguanosine,1.2025,0.139384699
+46,Deoxyinosine,2'-deoxyinosine,1.3738,0.097417257
+52,2-ethylhexanoate,2-ethylhexanoate,0.9456,0.578441342
+53,2-hydroxyacetaminophen sulfate,2-hydroxyacetaminophen sulfate,,
+54,2-hydroxybutyrate,2-hydroxybutyrate,1.0538,0.405052008
+55,2-hydroxyglutarate,2-hydroxyglutarate,6.1632,2.00E-10
+56,salicylate,2-hydroxyhippurate,0.469,0.188782214
+57,2-hydroxyisobutyrate,2-hydroxyisobutyrate,0.5713,1.50E-09
+58,2-hydroxypalmitate,2-hydroxypalmitate,1.3833,0.074756267
+59,2-isopropylmalate,2-isopropylmalate,0.7523,0.072846455
+60,2-linoleoylglycerol,2-linoleoylglycerol,2.1319,4.20E-09
+64,2-methylbutyrylcarnitine,2-methylbutyrylcarnitine,0.3532,0
+66,2-oleoylglycerol,2-oleoylglycerol,1.8401,0.000020298
+71,2-palmitoylglycerol,2-palmitoylglycerol,1.1311,0.142030929
+74,2-phosphoglycerate,2-phosphoglycerate,0.6332,0.000142841
+77,3-(4-Hydroxyphenyl)lactate,3-(4-hydroxyphenyl)lactate,1.118,0.310173565
+78,3-(cystein-S-yl)acetaminophen,3-(cystein-S-yl)acetaminophen,,
+81,3-aminoisobutyrate,3-aminoisobutyrate,3.9547,2.00E-10
+82,3-carboxy-4-methyl-5-propyl-2-furanpropanoate,3-carboxy-4-methyl-5-propyl-2-furanpropanoate,1.2849,0.164209348
+83,3-dehydrocarnitine,3-dehydrocarnitine,0.9836,0.789413905
+84,3'-Dephospho CoA,3'-dephosphocoenzyme A,0.7736,0.13964031
+85,3-Hydroxybutyric acid,3-hydroxybutyrate,0.9494,0.601551722
+86,3-hydroxydecanoate,3-hydroxydecanoate,0.8266,0.01022328
+87,3-hydroxyhippurate,3-hydroxyhippurate,0.3072,0.001259005
+88,3-hydroxyoctanoate,3-hydroxyoctanoate,0.9483,0.503647603
+89,Indoxyl sulfate,3-indoxyl sulfate,0.5751,0.001789403
+90,3-Methyl-2-oxovaleric acid,3-methyl-2-oxovalerate,0.8467,0.217791404
+91,3-methylglutarylcarnitine,3-methylglutarylcarnitine,0.9342,0.883010279
+92,1-Methyl Histidine,3-methylhistidine,0.7015,0.002071085
+93,3-phosphoglycerate,3-phosphoglycerate,0.5927,2.64E-05
+94,3-Ureidopropionate,3-ureidopropionate,1.2519,0.170005412
+95,4-acetamidophenol,4-acetamidophenol,0.5653,0.017483029
+96,4-acetaminophen sulfate,4-acetaminophen sulfate,0.3577,0.001370341
+98,4-Guanidinobutanoate,4-guanidinobutanoate,1.2845,0.001283049
+99,Hydroxybutyrate,4-hydroxybutyrate,3.1816,0.000000022
+101,4-hydroxyhippurate,4-hydroxyhippurate,0.3087,1.61E-06
+102,4-hydroxyphenylacetic acid,4-hydroxyphenylacetate,0.4565,0
+103,4-methyl-2-oxopentanoate,4-methyl-2-oxopentanoate,1.1656,0.489430401
+104,"5,6-Dihydrouracil","5,6-dihydrouracil",1.8358,0.000339783
+105,5-Aminopentanoate,5-aminovalerate,1.0271,0.845644138
+106,5-HETE,5-HETE,0.31,0
+107,5-methyltetrahydrofolate,5-methyltetrahydrofolate,0.3178,0
+108,5'-Methylthioadenosine,5-methylthioadenosine,1.6546,1.66E-06
+109,5-methyluridine,5-methyluridine,0.8769,
+110,5-oxoETE,5-oxoETE,0.3423,0
+111,Pyroglutamate,5-oxoproline,0.845,0.031300931
+112,6-keto prostaglandin F1alpha,6-keto prostaglandin F1alpha,1.0143,0.957633957
+113,6-Phospho-D-gluconate,6-phosphogluconate,2.9616,3.57E-08
+114,6'-sialyllactose,6'-sialyllactose,2.7463,9.08E-07
+115,7-alpha-hydroxy-3-oxo-4-cholestenoate,7-alpha-hydroxy-3-oxo-4-cholestenoate,3.2431,5.99E-07
+116,7alpha-Hydroxycholesterol,7-alpha-hydroxycholesterol,2.5171,0.003583923
+118,acetylcarnitine,acetylcarnitine,2.7887,0
+119,Ac-Ser-Asp-Lys-Pro-OH,Ac-Ser-Asp-Lys-Pro-OH,1.5147,2.21E-05
+120,Adenine,adenine,1.5841,0.000228326
+121,Adenosine,adenosine,0.646,7.28E-05
+123,3'-AMP,adenosine 3'-monophosphate,0.4923,0
+124,AMP,adenosine 5'-monophosphate,1.8901,1.43E-07
+125,"N6-(1,2-dicarboxyethyl)-AMP",adenylosuccinate,0.9532,0.625753526
+126,adipate,adipate,0.4245,0.005847405
+127,Adrenic acid,adrenate,1.1344,0.023387667
+128,Agmatine,agmatine,1.5632,0.019523722
+129,L-alanine,alanine,0.7558,2.71E-06
+130,alanylalanine,alanylalanine,1.2979,0.018211458
+131,alanylglutamate,alanylglutamate,1.8296,4.30E-06
+132,alanylglycine,alanylglycine,1.3007,0.008055441
+133,alanylisoleucine,alanylisoleucine,1.6513,0.005888501
+134,alanylleucine,alanylleucine,4.5864,3.37E-07
+135,alanylmethionine,alanylmethionine,2.3038,5.14E-07
+136,alanylphenylalanine,alanylphenylalanine,3.7019,1.32E-07
+137,Ala-THR,alanylthreonine,1.7882,0.012682895
+138,alanyltryptophan,alanyltryptophan,1.5588,0.010282194
+139,alanyltyrosine,alanyltyrosine,2.23,2.40E-09
+140,alanylvaline,alanylvaline,1.4668,0.016177306
+141,allo-threonine,allo-threonine,0.6826,0.000185682
+142,Glu-Glu,alpha-glutamylglutamate,1.7656,8.47E-06
+143,alpha-glutamyltryptophan,alpha-glutamyltryptophan,1.6754,0.006022227
+144,alpha-glutamyltyrosine,alpha-glutamyltyrosine,1.9829,3.23E-07
+145,2-Hydroxy-3-methylbutyric acid,alpha-hydroxyisovalerate,1.0748,0.337940543
+146,alpha-Tocopherol,alpha-tocopherol,8.9453,0
+147,androsterone sulfate,androsterone sulfate,0.7526,0.020647492
+148,anserine,anserine,1.0084,0.9846666
+149,D-Arabitol,arabitol,0.3702,0
+151,Icosanoic acid,arachidate,2.3026,0
+152,arachidonate,arachidonate,0.3007,0
+153,L-Arginine,arginine,0.7068,0
+154,N-(L-Arginino)succinate,argininosuccinate,0.5274,0.002015611
+155,arginylleucine,arginylleucine,2.9131,3.32E-06
+156,arginylmethionine,arginylmethionine,1.5131,0.174922866
+157,arginylphenylalanine,arginylphenylalanine,2.7191,3.80E-06
+158,arginyltyrosine,arginyltyrosine,1.5963,0.013702567
+159,arginylvaline,arginylvaline,1.3176,0.001519404
+160,Vitamin B12,ascorbate,1.114,0.343256494
+161,L-Asparagine,asparagine,0.3806,0
+162,L-aspartate,aspartate,0.4662,0
+164,aspartylleucine,aspartylleucine,2.7314,0
+165,aspartylphenylalanine,aspartylphenylalanine,1.8319,3.07E-07
+166,aspartyltryptophan,aspartyltryptophan,0.819,0.034782472
+167,aspartylvaline,aspartylvaline,2.0344,0.001150435
+168,atenolol,atenolol,0.4168,0.023501416
+169,azelate,azelate,1.1552,0.004981193
+170,benzoate,benzoate,0.8698,0.057343833
+171,beta-Alanine,beta-alanine,4.3483,0
+172,Hydroxypyruvate,beta-hydroxypyruvate,1.0677,0.385946071
+173,Betaine,betaine,1.0044,0.96674534
+174,beta-Tocopherol,beta-tocopherol,2.8951,0
+177,butyrylcarnitine,butyrylcarnitine,1.4682,2.10E-05
+178,Decanoic acid,caprate,0.8274,1.71E-06
+179,Hexanoic acid,caproate,0.8309,0.001008507
+181,carnitine,carnitine,1.2753,6.07E-05
+182,catechol sulfate,catechol sulfate,0.7833,0.403325611
+183,celecoxib,celecoxib,0.6947,
+184,C-glycosyltryptophan,C-glycosyltryptophan,0.7998,0.009281551
+185,myo-Inositol,chiro-inositol,0.4479,0.007957955
+186,Cholic acid,cholate,0.8479,0.459698262
+187,Cholesterol,cholesterol,1.1787,0.000349254
+188,Choline,choline,0.6637,0
+189,choline phosphate,choline phosphate,1.2972,1.58E-06
+190,cinnamoylglycine,cinnamoylglycine,0.6859,0.013451581
+191,cis-Aconitate,cis-aconitate,1.8767,1.77E-06
+192,cis-vaccenate,cis-vaccenate,1.6327,3.60E-09
+193,citalopram,citalopram,1.6276,0.2882671
+194,Citramalate,citramalate,0.334,1.00E-10
+195,Citrate,citrate,3.3276,1.45E-08
+196,L-Citrulline,citrulline,1.3793,1.18E-07
+197,codeine,codeine,1.826,
+198,Cortisol,cortisol,0.2798,0.324187671
+199,Cortisone,cortisone,0.3584,5.42E-08
+200,Creatine,creatine,2.1089,2.90E-09
+201,Creatinine,creatinine,0.3273,1.00E-10
+202,L-Cysteine,cysteine,1.4831,0.004316004
+204,cysteinylglycine,cysteinylglycine,10.3624,
+205,L-Cystine,cystine,1.463,0.00659404
+206,Cytidine,cytidine,0.5297,0
+207,CDP-choline,cytidine 5'-diphosphocholine,1.9566,6.56E-06
+208,CMP,cytidine 5'-monophosphate,2.2481,0
+209,3'-CMP,cytidine-3'-monophosphate,1.0653,0.531388711
+211,3-Dehydroxycarnitine,deoxycarnitine,1.2702,5.40E-05
+212,dihomo-linoleate,dihomo-linoleate,2.6223,0
+214,dihydrocholesterol,dihydrocholesterol,1.2743,0.145566458
+216,"N,N-Dimethylglycine",dimethylglycine,1.084,0.336415383
+218,docosahexaenoate,docosahexaenoate,0.4018,0
+221,docosatrienoate,docosatrienoate,2.6585,0
+222,Dodecanedioic acid,dodecanedioate,0.8259,0.103274058
+223,eicosapentaenoate,eicosapentaenoate,0.4594,0
+224,Eicosenoic acid,eicosenoate,4.9995,0
+225,epinephrine,epinephrine,,
+226,ergothioneine,ergothioneine,4.2204,0
+227,erucate,erucate,3.0326,0
+228,erythritol,erythritol,1.4509,0.002609633
+229,erythronate,erythronate,0.8975,0.285937011
+230,ethanolamine,ethanolamine,0.4066,0
+231,flavin adenine dinucleotide,flavin adenine dinucleotide,0.2884,0
+232,Fructose,fructose,4.3012,0
+233,D-Fructose 1-phosphate,fructose 1-phosphate,6.4329,0
+234,D-Fructose 6-phosphate,fructose 6-phosphate,6.9369,0
+235,fucose,fucose,0.8337,0.147999174
+236,Fumarate,fumarate,0.2933,0
+237,gabapentin,gabapentin,0.3615,0.000471402
+238,alpha-D-Galactose,galactose,1.6336,0.001266818
+248,D-Glucarate,glucarate,1.1902,0.167203305
+249,D-Gluconic acid,gluconate,0.2967,0
+250,D-glucose,glucose,4.2097,0
+251,D-Glucose 1-phosphate,glucose 1-phosphate,2.4391,2.41E-06
+252,glucose 6-phosphate,glucose 6-phosphate,9.3556,0
+253,D-Glucuronate,glucuronate,0.3571,6.00E-10
+254,L-Glutamate,glutamate,1.5065,0
+256,L-Glutamine,glutamine,1.3682,0
+257,Glutarate,glutarate,1.2632,0.028692525
+258,glutarylcarnitine,glutarylcarnitine,0.7999,0.231201793
+259,GSSG,"glutathione, oxidized",6.607,0.00650761
+260,GSH,GSH,15.8631,3.70E-05
+261,D-Glycerate,glycerate,0.8603,0.020712778
+262,Glycerol,glycerol,1.0161,0.817047372
+263,glycerol 2-phosphate,glycerol 2-phosphate,1.5942,4.78E-05
+264,glycerol 3-phosphate,glycerol 3-phosphate,0.8592,0.081312814
+265,glycerophosphoethanolamine,glycerophosphoethanolamine,0.4503,0.000001825
+266,glycerophosphorylcholine,glycerophosphorylcholine,1.5828,6.09E-08
+267,Glycine,glycine,0.855,0.00227058
+269,glycolate,glycolate,0.7121,0
+270,glycolithocholate sulfate,glycolithocholate sulfate,0.7767,0.077288239
+271,Glycyl-glycine,glycylglycine,0.3753,0
+272,glycylisoleucine,glycylisoleucine,0.8413,0.046182981
+273,Glycyl-leucine,glycylleucine,1.1366,0.233027926
+274,glycyllysine,glycyllysine,1.0209,0.862473407
+275,glycylmethionine,glycylmethionine,1.7793,0.00001919
+276,glycylphenylalanine,glycylphenylalanine,1.7208,0.000439194
+277,glycylproline,glycylproline,1.6823,0
+278,glycylthreonine,glycylthreonine,0.3045,0
+279,glycyltryptophan,glycyltryptophan,1.536,0.001570083
+280,glycyltyrosine,glycyltyrosine,1.5022,1.30E-05
+281,glycylvaline,glycylvaline,0.4014,0
+282,Guanidinoacetate,guanidinoacetate,0.7839,0.133956813
+283,Guanine,guanine,0.6431,0.450806017
+284,Guanosine,guanosine,1.8483,0
+285,GMP,guanosine 5'- monophosphate,2.8539,0
+286,Gulonolactone,"gulono-1,4-lactone",0.4925,0
+287,heme,heme,1.6975,0.106995305
+288,hexanoylcarnitine,hexanoylcarnitine,1.4947,0.000102593
+289,hippurate,hippurate,0.1007,0
+290,histamine,histamine,1.8462,3.55E-07
+291,His,histidine,0.496,0
+292,histidylleucine,histidylleucine,3.0381,4.00E-10
+293,histidylmethionine,histidylmethionine,1.9139,0.002475779
+294,histidylphenylalanine,histidylphenylalanine,2.1148,9.49E-05
+295,histidyltryptophan,histidyltryptophan,1.2777,0.089884812
+296,histidyltyrosine,histidyltyrosine,1.3048,0.507676776
+297,homocysteine,homocysteine,1.115,0.479942241
+298,L-Homoserine,homoserine,1.4815,0.000213222
+299,stachydrine,homostachydrine,1.2732,0.291187253
+300,hydantoin-5-propionic acid,hydantoin-5-propionic acid,,
+301,hydrochlorothiazide,hydrochlorothiazide,,
+302,hypotaurine,hypotaurine,1.7183,8.77E-05
+303,Hypoxanthine,hypoxanthine,0.5904,0
+304,imidazole propionate,imidazole propionate,1.0148,0.942758167
+305,Indole-3-acetic acid,indoleacetate,0.2794,0
+306,Indolelactate,indolelactate,0.9529,0.613901137
+307,Inosine,inosine,1.2696,3.00E-10
+308,myo-Inositol 1-phosphate,inositol 1-phosphate,0.4004,0
+311,isobutyrylcarnitine,isobutyrylcarnitine,0.6661,0.003372608
+312,isoleucine,isoleucine,0.5547,0
+313,isoleucylalanine,isoleucylalanine,2.0966,1.97E-05
+314,isoleucylarginine,isoleucylarginine,1.1814,0.369956426
+315,isoleucylglutamate,isoleucylglutamate,1.2681,0.112846875
+316,isoleucylglycine,isoleucylglycine,0.806,0.064486342
+317,isoleucylhistidine,isoleucylhistidine,0.6672,0.001079715
+318,isoleucylisoleucine,isoleucylisoleucine,2.4469,0.000119436
+319,isoleucylmethionine,isoleucylmethionine,3.6855,6.33E-05
+320,isoleucylphenylalanine,isoleucylphenylalanine,3.4455,1.07E-06
+321,isoleucylserine,isoleucylserine,2.0057,0.000085989
+322,isoleucyltryptophan,isoleucyltryptophan,2.8343,0.000165492
+323,isoleucyltyrosine,isoleucyltyrosine,2.9575,3.31E-06
+324,isoleucylvaline,isoleucylvaline,1.9496,0.002052415
+325,isovalerylcarnitine,isovalerylcarnitine,0.3093,0
+326,kynurenine,kynurenine,7.9146,0
+327,Lactate,lactate,1.4991,0
+328,Dodecanoic acid,laurate,0.7962,7.51E-06
+329,laurylcarnitine,laurylcarnitine,1.1618,0.326074749
+330,leucine,leucine,0.5885,0
+331,leucylalanine,leucylalanine,2.5677,2.19E-06
+332,leucylarginine,leucylarginine,1.6497,0.004652974
+333,leucylasparagine,leucylasparagine,2.1974,6.63E-07
+334,Leu-glu,leucylglutamate,2.6726,2.99E-06
+335,Leucyl-Glycine,leucylglycine,2.5476,1.07E-05
+336,leucylhistidine,leucylhistidine,0.9639,0.905704623
+337,leucylleucine,leucylleucine,3.5216,1.24E-07
+338,leucylmethionine,leucylmethionine,1.5444,0.00655703
+339,leucylphenylalanine,leucylphenylalanine,1.8422,2.55E-05
+340,leucylserine,leucylserine,3.0817,1.31E-05
+341,leucyltryptophan,leucyltryptophan,1.1528,0.227433481
+342,leucyltyrosine,leucyltyrosine,1.5156,0.01992779
+343,lidocaine,lidocaine,1.3453,0.173207587
+344,linoleate,linoleate,1.3515,0.000000002
+345,alpha-Linolenic acid,linolenate,1.678,2.00E-10
+346,lipitor,lipitor,,
+347,L-urobilin,L-urobilin,0.3268,0.013905965
+348,lysine,lysine,0.6431,0
+349,lysylleucine,lysylleucine,2.5058,1.41E-06
+350,lysyllysine,lysyllysine,1.1916,0.00963544
+351,lysylmethionine,lysylmethionine,1.1247,0.494086701
+352,lysyltyrosine,lysyltyrosine,3.7429,0.000002046
+353,Malic acid,malate,0.4938,0
+354,malonylcarnitine,malonylcarnitine,0.4097,0
+355,maltohexaose,maltohexaose,,
+356,maltopentaose,maltopentaose,2.2366,7.46E-07
+357,Lactose,maltose,12.9937,0
+358,maltotetraose,maltotetraose,8.3914,0
+359,maltotriose,maltotriose,10.2093,0
+360,Mannitol,mannitol,0.2616,8.07E-05
+361,Mannose,mannose,2.1062,4.80E-09
+362,D-Mannose 6-phosphate,mannose-6-phosphate,7.5303,0
+363,margarate,margarate,1.1657,0.000067211
+364,metformin,metformin,0.7688,0.581443981
+365,L-Methionine,methionine,0.4882,0
+366,methionylalanine,methionylalanine,3.3639,3.66E-05
+367,methionylasparagine,methionylasparagine,1.6002,0.001436753
+368,Met-Asp,methionylaspartate,1.7921,4.81E-05
+369,Met-Glu,methionylglutamate,1.7835,0.000003335
+370,methionylglycine,methionylglycine,2.0925,6.10E-05
+371,methionylleucine,methionylleucine,2.5505,6.51E-06
+372,methionylphenylalanine,methionylphenylalanine,1.4522,0.273475235
+374,methylphosphate,methylphosphate,0.6534,0.000000228
+375,metoprolol,metoprolol,0.7963,0.467839571
+377,myo-Inositol,myo-inositol,0.3254,0
+378,Tetradecanoic acid,myristate,0.9522,0.137427519
+379,Myristoleic acid,myristoleate,0.7157,0
+380,myristoylcarnitine,myristoylcarnitine,1.7291,0.000190799
+381,N1-Methyl-2-pyridone-5-carboxamide,N1-Methyl-2-pyridone-5-carboxamide,0.693,0.000000218
+382,1-methyladenosine,N1-methyladenosine,0.385,0
+383,N1-methylguanosine,N1-methylguanosine,0.2637,0
+384,"N2,N2-dimethylguanosine","N2,N2-dimethylguanosine",0.3445,2.00E-10
+385,N-Acetyllysine,N2-acetyllysine,2.5817,0.000122469
+386,N2-methylguanosine,N2-methylguanosine,0.4071,0
+387,N6-acetyllysine,N6-acetyllysine,0.2193,0
+388,N6-carbamoylthreonyladenosine,N6-carbamoylthreonyladenosine,0.5826,0.000611352
+389,"N6,N6,N6-Trimethyllysine",N-6-trimethyllysine,0.6301,1.59E-08
+390,N-acetylalanine,N-acetylalanine,0.4498,0
+391,N-acetylarginine,N-acetylarginine,4.3233,7.60E-05
+392,N-acetylasparagine,N-acetylasparagine,2.3482,1.95E-07
+393,N-acetylaspartate,N-acetylaspartate,0.0785,0
+394,N-Acetylaspartylglutamate,N-acetyl-aspartyl-glutamate,0.2493,0
+395,N-Acetylglucosamine,N-acetylglucosamine,0.605,0.003157597
+396,N-acetylglucosamine 6-phosphate,N-acetylglucosamine 6-phosphate,1.9966,0
+397,N-acetyl-glutamine,N-acetylglutamine,5.9249,5.00E-10
+398,N-acetylglycine,N-acetylglycine,1.1524,0.011521423
+399,N-acetylisoleucine,N-acetylisoleucine,1.2094,0.006639152
+400,N-acetylleucine,N-acetylleucine,1.8608,3.07E-06
+401,N-acetylmethionine,N-acetylmethionine,2.3007,3.00E-10
+402,N-acetylneuraminate,N-acetylneuraminate,2.4707,0
+403,N-Acetylornithine,N-acetylornithine,1.1752,0.199817383
+404,N-acetylphenylalanine,N-acetylphenylalanine,1.1902,0.340752923
+405,N-acetylserine,N-acetylserine,0.5887,0
+406,N-acetylthreonine,N-acetylthreonine,1.2444,0.014308052
+407,N-acetyltryptophan,N-acetyltryptophan,0.0902,0.009881995
+408,N-acetyltyrosine,N-acetyltyrosine,1.3418,0.115643307
+409,N-acetylvaline,N-acetylvaline,1.1003,0.224910739
+410,naproxen,naproxen,,
+411,nervonate,nervonate,2.2917,0
+412,nicotinamide,nicotinamide,0.869,0.006546452
+413,NAD+,nicotinamide adenine dinucleotide,0.5685,0.000195635
+415,nicotinamide ribonucleotide,nicotinamide ribonucleotide,0.6222,0.000253618
+416,nicotinamide riboside,nicotinamide riboside,1.3019,0.055199563
+417,nicotinate,nicotinate,1.0714,0.129085275
+418,nicotinate adenine dinucleotide,nicotinate adenine dinucleotide,,
+419,N-Methylglutamate,N-methylglutamate,0.4476,0.002488857
+420,oleoylcarnitine,octanoylcarnitine,1.7873,0.000000669
+421,(9Z)-Octadecenoic acid,oleate,1.5345,5.04E-07
+422,oleoylcarnitine,oleoylcarnitine,1.7818,0.006783987
+423,Ophthalmate,ophthalmate,1.6118,0.128653128
+424,L-Ornithine,ornithine,1.1866,0.294069526
+425,p-acetamidophenylglucuronide,p-acetamidophenylglucuronide,0.2213,0.030371257
+426,Hexadecanoic acid,palmitate,1.1464,8.05E-05
+427,(9Z)-Hexadecenoic acid,palmitoleate,1.428,2.50E-09
+428,palmitoyl sphingomyelin,palmitoyl sphingomyelin,0.9342,0.267182114
+429,L-Palmitoylcarnitine,palmitoylcarnitine,1.43,0.064050782
+430,Pantothenic acid,pantothenate,0.2153,0
+431,paroxetine,paroxetine,1.1695,
+432,p-cresol sulfate,p-cresol sulfate,0.5543,2.17E-06
+433,pelargonate,pelargonate,0.8817,0.003716551
+434,penicillin G,penicillin G,1.9824,0.027568411
+435,pentadecanoate,pentadecanoate,1.2977,1.00E-06
+436,phenol red,phenol red,0.5979,0.029483947
+437,phenol sulfate,phenol sulfate,0.5436,0.000964916
+438,phenylacetylglutamine,phenylacetylglutamine,0.1057,0
+439,phenylalanine,phenylalanine,0.5908,0
+440,phenylalanylalanine,phenylalanylalanine,7.2485,0
+441,phenylalanylarginine,phenylalanylarginine,1.5711,0.272488456
+442,Phe-Asp,phenylalanylaspartate,2.7089,3.22E-08
+443,Phe-Glu,phenylalanylglutamate,3.3922,1.88E-08
+444,phenylalanylglycine,phenylalanylglycine,2.4345,2.80E-09
+445,phenylalanylleucine,phenylalanylleucine,3.7126,2.60E-09
+446,phenylalanylmethionine,phenylalanylmethionine,1.6341,0.000171069
+447,phenylalanylphenylalanine,phenylalanylphenylalanine,1.6303,5.44E-05
+448,phenylalanylproline,phenylalanylproline,2.274,0.0000104
+449,phenylalanylserine,phenylalanylserine,3.2198,0
+450,phenylalanyltryptophan,phenylalanyltryptophan,1.6134,0.002287513
+451,phenylalanyltyrosine,phenylalanyltyrosine,1.7841,0.000165905
+452,phenylalanylvaline,phenylalanylvaline,2.2608,5.46E-06
+453,Orthophosphate,phosphate,0.8045,1.32E-07
+454,Phosphoenolpyruvate,phosphoenolpyruvate,0.4225,1.00E-10
+455,phosphoethanolamine,phosphoethanolamine,0.9158,0.039986888
+456,4-Hydroxysphinganine,phytosphingosine,0.823,0.094484445
+457,Pipecolic acid,pipecolate,1.3704,0.058630564
+458,piperine,piperine,1.1304,0.164030262
+459,pivaloylcarnitine,pivaloylcarnitine,0.6787,0.225016257
+460,pregnanediol-3-glucuronide,pregnanediol-3-glucuronide,0.7525,0.064161439
+462,pro-hydroxy-pro,pro-hydroxy-pro,0.4529,0
+463,L-Proline,proline,0.5036,0
+464,prolylglycine,prolylglycine,0.5363,0
+465,prolylmethionine,prolylmethionine,2.0223,0.000022602
+466,propionylcarnitine,propionylcarnitine,0.8881,0.137415464
+467,prostaglandin A2,prostaglandin A2,0.5204,0.125323571
+468,prostaglandin E2,prostaglandin E2,0.716,0.451380947
+469,Pseudouridine,pseudouridine,0.3211,0
+470,Putrescine,putrescine,4.4311,4.75E-08
+471,pyridoxal,pyridoxal,0.4362,0
+472,4-Pyridoxic acid,pyridoxate,0.6611,0.019102069
+473,Pyroglutamine,pyroglutamine,3.6813,4.00E-10
+474,Pyrophosphate,pyrophosphate,0.6754,1.55E-05
+475,quebrachitol,quebrachitol,1.2396,0.261897098
+476,Quinic acid,quinate,0.4496,0.00000412
+477,quinidine,quinidine,0.5122,0.474049297
+478,Quinolinate,quinolinate,1.7254,0.033985666
+479,ranitidine,ranitidine,0.1829,
+480,Xylitol,ribitol,1.1761,0.357588508
+481,riboflavin,riboflavin,0.4592,0
+482,D-Ribose,ribose,1.2079,0.101017979
+483,D-Ribulose,ribulose,1.6454,3.00E-10
+484,Saccharopine,saccharopine,4.6618,0.002948766
+485,S-Adenosyl-L-homocysteine,S-adenosylhomocysteine,2.102,0
+486,S-Adenosyl-L-methionine,S-adenosylmethionine,1.2514,0.000802533
+487,salicylate,salicylate,,
+488,Sarcosine,sarcosine,2.6522,2.98E-05
+489,myo-Inositol,scyllo-inositol,0.2372,0
+490,Sedoheptulose 7-phosphate,sedoheptulose 7-phosphate,1.526,5.71E-06
+491,L-Serine,serine,0.3396,0
+492,serylisoleucine,serylisoleucine,1.3465,0.06832886
+493,serylleucine,serylleucine,4.2551,6.00E-10
+495,serylvaline,serylvaline,1.7443,3.20E-06
+496,S-methylcysteine,S-methylcysteine,0.8273,0.0021577
+497,D-Sorbitol,sorbitol,2.6761,0.002545078
+498,Sorbitol 6-phosphate,sorbitol 6-phosphate,1.4283,1.27E-05
+499,Spermidine,spermidine,1.6922,0
+500,Spermine,spermine,0.6775,0.4918928
+501,sphinganine,sphinganine,1.4664,0.00171906
+502,sphingosine,sphingosine,2.2262,2.11E-06
+503,Squalene,squalene,0.793,0.037772558
+504,stachydrine,stachydrine,1.2972,0.082970381
+505,Octadecanoic acid,stearate,1.3068,0
+506,Stearidonic acid,stearidonate,1.9904,1.10E-09
+507,stearoylcarnitine,stearoylcarnitine,1.0967,0.637663236
+508,Streptomycin sulfate,streptomycin,1.1531,0.292893219
+509,Succinate,succinate,2.0186,0.000000016
+510,succinylcarnitine,succinylcarnitine,1.004,0.970369656
+511,Tartaric acid,tartarate,0.1343,0.137723541
+512,Taurine,taurine,1.0944,0.175239841
+513,Testosterone,testosterone,1.0152,0.835665404
+514,Theobromine,theobromine,0.8599,0.085838091
+515,Threitol,threitol,0.7387,0.456346266
+516,Threonate,threonate,1.7891,1.26E-05
+517,L-Threonine,threonine,0.3929,0
+519,threonylleucine,threonylleucine,3.1228,2.01E-07
+520,threonylmethionine,threonylmethionine,1.8034,7.78E-05
+521,threonylphenylalanine,threonylphenylalanine,4.1684,2.66E-07
+522,threonylvaline,threonylvaline,1.5494,0.015426698
+523,Thymidine,thymidine,0.9981,0.992550529
+524,Thymine,thymine,0.8041,0.54305533
+525,Hydroxyproline,trans-4-hydroxyproline,1.0487,0.761571709
+526,trans-urocanate,trans-urocanate,0.6713,1.00E-10
+527,triethyleneglycol,triethyleneglycol,0.8841,0.257405498
+528,trigonelline,trigonelline,0.4306,1.19E-08
+529,L-Tryptophan,tryptophan,0.3098,0
+530,tryptophan betaine,tryptophan betaine,2.1907,6.07E-08
+531,tryptophylasparagine,tryptophylasparagine,2.078,2.75E-07
+532,Trp-Glu,tryptophylglutamate,1.66,8.84E-06
+533,tryptophylleucine,tryptophylleucine,1.5703,0.009088607
+534,L-Tyrosine,tyrosine,0.5087,0
+535,tyrosylalanine,tyrosylalanine,2.0605,2.44E-07
+536,tyrosylglutamine,tyrosylglutamine,1.967,0.000000002
+537,tyrosylglycine,tyrosylglycine,1.3591,0.01105597
+538,tyrosylhistidine,tyrosylhistidine,1.8556,0.000178978
+539,tyrosylleucine,tyrosylleucine,3.6297,1.80E-09
+540,lysyltyrosine,tyrosyllysine,2.6367,0.0186885
+541,tyrosylphenylalanine,tyrosylphenylalanine,1.7576,1.64E-06
+542,tyrosyltyrosine,tyrosyltyrosine,1.685,0.001851978
+543,tyrosylvaline,tyrosylvaline,2.1111,4.14E-06
+544,undecanedioate,undecanedioate,1.2526,1.71E-05
+545,Uracil,uracil,0.6721,0.000007021
+546,Urate,urate,0.7445,1.18E-06
+547,Urea,urea,0.5245,0
+548,Uridine,uridine,0.8996,0.016350002
+549,UMP,uridine monophosphate,2.7754,0
+550,valerylcarnitine,valerylcarnitine,0.6101,1.08E-07
+551,Val,valine,0.5469,0
+552,valylalanine,valylalanine,1.8008,0.00092066
+553,valylarginine,valylarginine,1.7081,3.30E-05
+554,valylasparagine,valylasparagine,1.6378,0.005744292
+555,Val-Asp,valylaspartate,1.4029,0.005982453
+556,valylglutamate,valylglutamate,1.8444,1.36E-05
+557,valylglutamine,valylglutamine,1.7246,0.000500437
+558,valylglycine,valylglycine,0.8932,0.329309912
+559,valylhistidine,valylhistidine,1.0191,0.8807911
+560,valylisoleucine,valylisoleucine,2.2102,0.000077131
+561,valylleucine,valylleucine,4.1137,5.82E-06
+562,valyllysine,valyllysine,1.3025,0.075255594
+563,valylmethionine,valylmethionine,3.7477,5.13E-06
+564,valylphenylalanine,valylphenylalanine,3.7486,1.04E-06
+565,valylserine,valylserine,2.035,9.43E-05
+566,valyltryptophan,valyltryptophan,3.2007,3.18E-06
+567,valyltyrosine,valyltyrosine,3.2382,3.21E-07
+568,valylvaline,valylvaline,2.0477,0.000186235
+569,Vanillylmandelic acid,vanillylmandelate,0.2527,2.92E-08
+570,venlafaxine,venlafaxine,0.6931,
+572,Xanthine,xanthine,0.6617,0
+573,Xanthosine,xanthosine,0.6022,0
+574,Xylitol,xylitol,0.5469,0
+575,xylonate,xylonate,0.8965,0.447317699
+576,D-Xylose,xylose,0.2553,0.000001494
+577,Xylulose,xylulose,1.6961,4.00E-10
