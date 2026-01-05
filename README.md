@@ -15,7 +15,6 @@ The analysis consists of the following steps:
 5. Enrichment analysis:  `iDMET_msea_source.R, msea_ora.R`
 
 ## Requirements
-- R 4.0 or higher
 - R packages:
   - igraph
   - cytoscape
