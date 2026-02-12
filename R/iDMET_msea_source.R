@@ -85,7 +85,11 @@ colnames(P) <- c("Metabolic_Pathway", "Total_Metabolites", "Detected_Metabolites
   "p_value(Fisher's exact test)", "q_value(BH method)", "Selected_Metabolites_Names"
 )
 
+# Remove pathways with overlap = 0
+P <- P[P$Detected_Metabolites > 0, ]
+
 write.csv(P, file = out_file, fileEncoding = "CP932", row.names = FALSE)
+
 
 
 
