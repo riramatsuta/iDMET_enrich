@@ -5,7 +5,7 @@ library(dplyr)
 #----------------------
 # Load input data 
 #----------------------
-INDATA <- read.csv(data, fileEncoding = "CP932", na.strings = c("", "N.A.", "N.D."),  header=TRUE)[-1,] 
+INDATA <- read.csv(data, fileEncoding = "CP932", na.strings = c("", "N.A.", "N.D."), header = TRUE, skip = 1)
 
 #----------------------
 # Select metabolites
@@ -78,6 +78,7 @@ colnames(P) <- c("Metabolic_Pathway", "Total_Metabolites", "Detected_Metabolites
 )
 
 write.csv(P, file = out_file, fileEncoding = "CP932", row.names = FALSE)
+
 
 
 
