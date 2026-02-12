@@ -48,8 +48,9 @@ Specify the paths to your CSV file and the output directory in the script.
 
 * Input Data
   * You need to prepare a CSV file containing **all metabolites detected in your dataset**, including both those that changed (differential metabolites) and those that did not. The file should include:
-     * Metabolite names
-     * Fold changes or p-values
+     * Compound name
+     * Ratio (Fold change)
+     * p-value
 
 
 This ensures that the enrichment analysis accounts for all detected metabolites, reducing potential bias that could arise from using only significantly changed metabolites.
