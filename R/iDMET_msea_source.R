@@ -11,13 +11,14 @@ INDATA <- read.csv(data, fileEncoding = "CP932", na.strings = c("", "N.A.", "N.D
 # Select metabolites based on threshold
 # (Threshold values can be adjusted as needed.)
 #------------------------------------------
-# Threshold (Case Study 1: ccRCC)
+# Selection threshold used in Case Study 1 and 3
 INDATA2 <- INDATA %>%　filter(Ratio > 1.2)  　 # increased metabolites
 # INDATA2 <- INDATA %>%　filter(Ratio < 1/1.2) # decreased metabolites
 
-# Threshold (Case Study 3: SCLC)
+# Selection threshold used in Case Study 2
+# INDATA2 <- INDATA %>%　filter(Ratio > 1.2,　p.value < 0.05)    # increased metabolites
+# INDATA2 <- INDATA %>%　filter(Ratio < 1/1.2,　p.value < 0.05)  # decreased metabolites
 
-# INDATA2 <- INDATA %>%　filter(Ratio >= 1.2,　p.value < 0.05)
 
 SIG <- as.character(INDATA2$Compound.name)  # Significant metabolites
 ALL <- as.character(INDATA$Compound.name)   # All metabolites
@@ -85,6 +86,7 @@ colnames(P) <- c("Metabolic_Pathway", "Total_Metabolites", "Detected_Metabolites
 )
 
 write.csv(P, file = out_file, fileEncoding = "CP932", row.names = FALSE)
+
 
 
 
