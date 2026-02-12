@@ -15,7 +15,7 @@ INDATA <- read.csv(data, fileEncoding = "CP932", na.strings = c("", "N.A.", "N.D
 INDATA2 <- INDATA %>%　filter(Ratio > 1.2)  　 # increased metabolites
 # INDATA2 <- INDATA %>%　filter(Ratio < 1/1.2) # decreased metabolites
 
-# Threshold (Case Study 2: ccRCC)
+# Threshold (Case Study 3: SCLC)
 
 # INDATA2 <- INDATA %>%　filter(Ratio >= 1.2,　p.value < 0.05)
 
@@ -85,6 +85,7 @@ colnames(P) <- c("Metabolic_Pathway", "Total_Metabolites", "Detected_Metabolites
 )
 
 write.csv(P, file = out_file, fileEncoding = "CP932", row.names = FALSE)
+
 
 
 
