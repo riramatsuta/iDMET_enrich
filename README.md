@@ -16,6 +16,7 @@ The analysis consists of the following steps:
 
 ## Requirements
 - R packages:
+  - dplyr
   - igraph
   - cytoscape
   - clusterProfiler
