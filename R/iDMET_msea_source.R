@@ -1,6 +1,7 @@
 #  MSEA Source Code
 
 # rm(list = ls(all = TRUE))
+library(dplyr)
 #----------------------
 # Load input data 
 #----------------------
@@ -77,6 +78,7 @@ colnames(P) <- c("Metabolic_Pathway", "Total_Metabolites", "Detected_Metabolites
 )
 
 write.csv(P, file = out_file, fileEncoding = "CP932", row.names = FALSE)
+
 
 
 
